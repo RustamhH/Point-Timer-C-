@@ -1,0 +1,15 @@
+D:\c#\Point_Timer\Point_Timer\bin\Debug\net6.0\Point_Timer.exe
+D:\c#\Point_Timer\Point_Timer\bin\Debug\net6.0\Point_Timer.deps.json
+D:\c#\Point_Timer\Point_Timer\bin\Debug\net6.0\Point_Timer.runtimeconfig.json
+D:\c#\Point_Timer\Point_Timer\bin\Debug\net6.0\Point_Timer.dll
+D:\c#\Point_Timer\Point_Timer\bin\Debug\net6.0\Point_Timer.pdb
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\Point_Timer.csproj.AssemblyReference.cache
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\Point_Timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\Point_Timer.AssemblyInfoInputs.cache
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\Point_Timer.AssemblyInfo.cs
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\Point_Timer.csproj.CoreCompileInputs.cache
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\Point_Timer.dll
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\refint\Point_Timer.dll
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\Point_Timer.pdb
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\Point_Timer.genruntimeconfig.cache
+D:\c#\Point_Timer\Point_Timer\obj\Debug\net6.0\ref\Point_Timer.dll
