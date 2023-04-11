@@ -52,18 +52,23 @@
             int _currentvalue;
 
 
+            // Defualt constructor
             public Timer()
             {
                 Min = 0;
                 Max = 10;
                 Current = Min;
             }
+
+            // Param constructor
             public Timer(int minvalue,int maxvalue)
             {
                 Min= minvalue;
                 Max = maxvalue;
                 Current = Min;
             }
+
+            // Min Property
             public int Min { 
                 get { return _minvalue; } 
                 set 
@@ -73,6 +78,7 @@
                 } 
             }
 
+            // Max property
             public int Max
             {
                 get { return _maxvalue; }
@@ -83,6 +89,7 @@
                 }
             }
 
+            // Current property
             public int Current
             {
                 get { return _currentvalue; }
@@ -92,11 +99,14 @@
                     else _currentvalue = value;
                 }
             }
+
+            // Increment
             public void Increment()
             {
                 Current=Current+1;
             }
 
+            // To_string overrider
             public override string ToString()
             {
                 return $"Min Value: {Min}\nMax Value: {Max}\nCurrent Value: {Current}";
